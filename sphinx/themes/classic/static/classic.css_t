@@ -75,7 +75,7 @@ div.sphinxsidebar {
     top: 30px;
     bottom: 0;
     margin: 0;
-    position: fixed;
+    position: relative;
     overflow: auto;
     height: auto;
     {%- endif %}
